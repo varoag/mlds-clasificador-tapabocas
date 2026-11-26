@@ -13,7 +13,6 @@ La unidad de decisión es una fotografía con un rostro principal visible. Dada 
 - Adquirir y verificar el conjunto público de Hugging Face, documentar sus campos y conservar el origen de cada fila.
 - Comparar una línea base de clase mayoritaria y un clasificador de imágenes. Evaluar por clase y revisar ejemplos de ambos tipos de error.
 - Proponer una interfaz de carga individual que muestre la clase estimada y permita al revisor corregirla. Una entrada grupal, ambigua o sin rostro queda fuera del protocolo de prueba.
-- Entregar en fase 1 el marco, el diccionario, el cargador y la evidencia de lectura. El entrenamiento, las métricas predictivas y el prototipo corresponden a fases posteriores.
 
 ### Criterios de éxito propuestos
 | Decisión | Indicador y protocolo | Meta |
